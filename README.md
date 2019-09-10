@@ -1,7 +1,7 @@
 # Dynamic_DNR_Biotics_Maps
 Create maps dynamically using DNR biotics data.
 
-##General workflow:
+## General workflow:
 
 (1) unpack zipped DNR Biotics species data
 
