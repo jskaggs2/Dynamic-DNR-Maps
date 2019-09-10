@@ -1,5 +1,5 @@
 # Dynamic_DNR_Biotics_Maps
-Create maps dynamically using DNR biotics data.
+Create maps (somewhat) dynamically using DNR biotics data.
 
 ## General workflow
 
